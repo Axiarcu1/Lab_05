@@ -1,0 +1,9 @@
+main.c:62:6:LED1_display	1
+main.c:65:6:LED2_display	1
+main.c:69:6:LED3_display	2
+main.c:80:5:main	1
+main.c:130:6:SystemClock_Config	3
+main.c:167:13:MX_TIM2_Init	4
+main.c:213:13:MX_GPIO_Init	1
+main.c:257:6:HAL_TIM_PeriodElapsedCallback	1
+main.c:267:6:Error_Handler	1

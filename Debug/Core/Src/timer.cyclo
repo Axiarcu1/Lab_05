@@ -1,0 +1,4 @@
+timer.c:18:6:setTimer1	1
+timer.c:23:6:setTimer2	1
+timer.c:28:6:setTimer3	1
+timer.c:33:6:timer_run	7
